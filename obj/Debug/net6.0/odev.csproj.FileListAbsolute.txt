@@ -1,0 +1,75 @@
+/Users/serdaraksoy/Development/playground/csharp/odev/bin/Debug/net6.0/odev
+/Users/serdaraksoy/Development/playground/csharp/odev/bin/Debug/net6.0/odev.deps.json
+/Users/serdaraksoy/Development/playground/csharp/odev/bin/Debug/net6.0/odev.runtimeconfig.json
+/Users/serdaraksoy/Development/playground/csharp/odev/bin/Debug/net6.0/odev.dll
+/Users/serdaraksoy/Development/playground/csharp/odev/bin/Debug/net6.0/odev.pdb
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.csproj.AssemblyReference.cache
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.AssemblyInfoInputs.cache
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.AssemblyInfo.cs
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.csproj.CoreCompileInputs.cache
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.dll
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/refint/odev.dll
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.pdb
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/odev.genruntimeconfig.cache
+/Users/serdaraksoy/Development/playground/csharp/odev/obj/Debug/net6.0/ref/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/bin/Debug/net6.0/odev.exe
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/bin/Debug/net6.0/odev.deps.json
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/bin/Debug/net6.0/odev.runtimeconfig.json
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/bin/Debug/net6.0/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/bin/Debug/net6.0/ref/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/bin/Debug/net6.0/odev.pdb
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.csproj.AssemblyReference.cache
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.AssemblyInfoInputs.cache
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.AssemblyInfo.cs
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.csproj.CoreCompileInputs.cache
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/ref/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.pdb
+C:/Users/benim/OneDrive/Masaüstü/odev/odev/obj/Debug/net6.0/odev.genruntimeconfig.cache
+/Users/serdaraksoy/Desktop/odev/bin/Debug/net6.0/odev
+/Users/serdaraksoy/Desktop/odev/bin/Debug/net6.0/odev.deps.json
+/Users/serdaraksoy/Desktop/odev/bin/Debug/net6.0/odev.runtimeconfig.json
+/Users/serdaraksoy/Desktop/odev/bin/Debug/net6.0/odev.dll
+/Users/serdaraksoy/Desktop/odev/bin/Debug/net6.0/odev.pdb
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.csproj.AssemblyReference.cache
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.AssemblyInfoInputs.cache
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.AssemblyInfo.cs
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.csproj.CoreCompileInputs.cache
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.dll
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/refint/odev.dll
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.pdb
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/odev.genruntimeconfig.cache
+/Users/serdaraksoy/Desktop/odev/obj/Debug/net6.0/ref/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.exe
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.deps.json
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.runtimeconfig.json
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/ref/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.pdb
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.csproj.AssemblyReference.cache
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.AssemblyInfoInputs.cache
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.AssemblyInfo.cs
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.csproj.CoreCompileInputs.cache
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/ref/odev.dll
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.pdb
+C:/Users/benim/OneDrive/Masaüstü/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.genruntimeconfig.cache
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.deps.json
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.runtimeconfig.json
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.dll
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/bin/Debug/net6.0/odev.pdb
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.csproj.AssemblyReference.cache
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.AssemblyInfoInputs.cache
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.AssemblyInfo.cs
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.csproj.CoreCompileInputs.cache
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.dll
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/refint/odev.dll
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.pdb
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/odev.genruntimeconfig.cache
+/Users/serdaraksoy/Desktop/serdar_aksoy_robot_cozum (1)/odev/obj/Debug/net6.0/ref/odev.dll
